@@ -3,7 +3,7 @@
 # SemanaOmnistack11
 Durante a semana foi realizada uma aplicação chamada Be The Hero. Essa aplicação tem como objetivo inicial atender ONGs, onde na aplicação Web o usuário(ONG) cadastrado no sistema pode cadastrar uma causa onde precisa de um herói para ajuda-lo a cuidar de algo especifico e no mobile os usuários (heróis) podem ajudar a ONG que desejar, podendo entrar em contato via WhatsApp ou E-mail.
 
-##O que foi utilizado no backend:
+## O que foi utilizado no backend:
 - NodeJs
 - Express
 - Knex
@@ -13,7 +13,7 @@ Durante a semana foi realizada uma aplicação chamada Be The Hero. Essa aplica�
 - yarn 
 - yarn dev
 
-##O que foi utilizado na web:
+## O que foi utilizado na web:
 - ReactJS
 - Axios
 - Router Dom
@@ -37,7 +37,7 @@ Durante a semana foi realizada uma aplicação chamada Be The Hero. Essa aplica�
 
 
 
-##O que foi utilizado para no mobile:
+## O que foi utilizado para no mobile:
 - React Native
 - Expo
 - Axios
