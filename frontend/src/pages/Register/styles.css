@@ -3,7 +3,7 @@
   max-width: 1120px;
   height: 100vh;
   margin: 0 auto;
-
+  color: #FFF;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -12,7 +12,7 @@
 .register-container .content {
   width: 100%;
   padding: 96px;
-  background: #f0f0f5;
+  background: #000033;
   box-shadow: 0 0 100px #0001;
   border-radius: 8px;
 
@@ -34,7 +34,7 @@
 
 .register-container .content section p {
   font-size: 18px;
-  color: #737380;
+  color: #eee;
   line-height: 32px;
 }
 
