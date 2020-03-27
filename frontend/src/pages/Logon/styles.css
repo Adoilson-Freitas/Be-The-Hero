@@ -23,3 +23,59 @@
   font-size: 32px;
   margin-bottom: 32px;
 }
+
+.logon-container .logo {
+  width: 100%;
+}
+
+.logon-container .hero {
+  width: 100%;
+}
+
+@media (max-width: 906px) {
+  .logon-container section.form form {
+    margin-top: 80px;
+  }
+
+  .logon-container .logo {
+    width: 58%;
+  }
+
+  .logon-container .hero {
+    width: 58%;
+  }
+}
+
+@media (max-width: 750px) {
+  .logon-container section.form form {
+    margin-top: 48px;
+  }
+
+  .logon-container .logo {
+    width: 50%;
+  }
+
+  .logon-container .hero {
+    width: 50%;
+  }
+}
+
+@media (max-width: 620px) {
+  .logon-container {
+    justify-content: center;
+  }
+
+  .logon-container section.form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .logon-container .logo {
+    width: 60%;
+  }
+
+  .logon-container .hero {
+    display: none;
+  }
+}

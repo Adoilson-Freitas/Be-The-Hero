@@ -31,7 +31,7 @@ export default function Logon() {
   return (
     <div className="logon-container">
       <section className="form">
-      <img src={logoImg} alt="Be The Hero"/>
+      <img className="logo" src={logoImg} alt="Be The Hero"/>
 
       <form onSubmit={handleLogin}>
         <h1>Faça seu Logon</h1>
@@ -50,7 +50,7 @@ export default function Logon() {
       </form>
       </section>
 
-      <img src={heroesImg} alt="Heroes"/>
+      <img className="hero" src={heroesImg} alt="Heroes"/>
     </div>
   )
 }
