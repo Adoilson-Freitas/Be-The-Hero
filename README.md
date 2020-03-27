@@ -1,7 +1,7 @@
 ![semanaOmniStack](https://user-images.githubusercontent.com/56658900/77716585-4b3ccf80-6fbd-11ea-8cd0-b3876de9fa96.png)
 
 # SemanaOmnistack11
-Durante a semana foi realizada uma aplicação chamada Be The Hero. Essa aplicação tem como objetivo inicial atender ONGs, onde na aplicação Web o usuário(ONG) cadastrado no sistema pode cadastrar uma causa onde precisa de um herói para ajuda-lo a cuidar de algo especifico e no mobile os usuários (heróis) podem ajudar a ONG que desejar, podendo entrar em contato via WhatsApp ou E-mail.
+Durante a semana foi desenvolvida uma aplicação chamada Be The Hero. Essa aplicação tem como objetivo inicial atender ONGs, onde na aplicação Web o usuário(ONG) cadastrado no sistema pode cadastrar uma causa onde precisa de um herói para ajuda-lo a cuidar de algo especifico e no mobile os usuários (heróis) podem ajudar a ONG que desejar, podendo entrar em contato via WhatsApp ou E-mail.
 
 ## O que foi utilizado no backend:
 - NodeJs
