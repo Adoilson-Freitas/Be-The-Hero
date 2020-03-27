@@ -7,6 +7,8 @@ Durante a semana foi desenvolvida uma aplicação chamada Be The Hero. Essa apli
 - NodeJs
 - Express
 - Knex
+- Jest
+- Celebrate
 - sqlite3
 
 **Rodando o projeto local**
